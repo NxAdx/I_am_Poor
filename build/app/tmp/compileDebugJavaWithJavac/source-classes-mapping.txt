@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/adx/i_am_poor/BuildConfig.java
+ com.adx.i_am_poor.BuildConfig
